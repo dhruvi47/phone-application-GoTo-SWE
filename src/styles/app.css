@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.contact-list {
+  margin: 20px;
+}
+
+.contact-list input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.contact-form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
+
+.edit-contact-form {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #f9f9f9;
+}
